@@ -1,4 +1,0 @@
-Model,Revenue_Lost_to_Cancellations,Revenue_Flagged_in_Advance,Pct_Lost_Revenue_Flagged,False_Alarm_Bookings
-Logistic Regression,5011301,3304486,65.9,2012
-XGBoost,5011301,3953008,78.9,1807
-Random Forest,5011301,3805456,75.9,1575
